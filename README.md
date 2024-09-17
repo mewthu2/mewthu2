@@ -9,6 +9,6 @@
   <img src="https://github.com/mewthu2/images/blob/master/pngwing.com%20(2).png?raw=true" width="65" height="65">
   <img src="https://github.com/mewthu2/images/blob/master/pngwing.com%20(3).png?raw=true" width="65" height="65">
   <img src="https://github.com/mewthu2/images/blob/master/pngwing.com%20(7).png?raw=true" width="150" height="50">
-  <img src="https://github.com/mewthu2/images/blob/master/pngwing.com%20(5).png?raw=true" width="125" height="50">
+  <img src="https://github.com/mewthu2/images/blob/master/pngwing.com%20(5).png?raw=true" width="100" height="50">
   <img src="https://github.com/mewthu2/images/blob/master/pngwing.com%20(6).png?raw=true" width="150" height="50">
 </div>
